@@ -1,6 +1,3 @@
 Main
-<<<<<<< HEAD
 min
-=======
 ABC
->>>>>>> 03af06da1ecb1cb43e695e85be3e14d9ef48c194
